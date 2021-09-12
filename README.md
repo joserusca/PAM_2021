@@ -1,5 +1,2 @@
-# PAM_2021
-
-Ejercicios de la catedra PROGRAMACION DE APLICACIONES MOVILES
-
+# Programacion de Aplicaciones Moviles 2021
 UNIVERSIDAD CATOLICA ARGENTINA
